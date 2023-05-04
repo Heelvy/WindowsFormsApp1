@@ -119,7 +119,7 @@ namespace WindowsFormsApp1
             else
                 timer1.Enabled = false;
         }
-
+        //new commit
         private void timer1_Tick(object sender, EventArgs e)
         {
            
